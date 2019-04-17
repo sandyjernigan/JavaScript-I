@@ -36,8 +36,12 @@ const intern3 = {
   "email": "kmummery2@wikimedia.org",
   "gender": "M"
 }
-
-// 4,gmartinson3@illinois.edu,Gannie,M
+const intern4 = {
+  "id": 4,
+  "name": "Gannie",
+  "email": "gmartinson3@illinois.edu",
+  "gender": "M"
+}
 // 5,adaine5@samsung.com,Antonietta,F
 
 // ==== Challenge 2: Reading Object Data ==== 
