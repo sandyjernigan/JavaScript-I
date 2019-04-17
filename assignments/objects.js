@@ -24,6 +24,12 @@ const intern1 = {
   "email": "mmelloy0@psu.edu",
   "gender": "F"
 }
+const intern1 = {
+  "id": 2,
+  "name": "Kennan",
+  "email": "kdiben1@tinypic.com",
+  "gender": "M"
+}
 
 
 // ==== Challenge 2: Reading Object Data ==== 
