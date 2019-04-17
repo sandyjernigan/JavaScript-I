@@ -24,13 +24,21 @@ const intern1 = {
   "email": "mmelloy0@psu.edu",
   "gender": "F"
 }
-const intern1 = {
+const intern2 = {
   "id": 2,
   "name": "Kennan",
   "email": "kdiben1@tinypic.com",
   "gender": "M"
 }
+const intern3 = {
+  "id": 3,
+  "name": "Keven",
+  "email": "kmummery2@wikimedia.org",
+  "gender": "M"
+}
 
+// 4,gmartinson3@illinois.edu,Gannie,M
+// 5,adaine5@samsung.com,Antonietta,F
 
 // ==== Challenge 2: Reading Object Data ==== 
 // Once your objects are created, log out the following requests from HR into the console:
